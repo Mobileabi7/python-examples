@@ -1,7 +1,7 @@
 #6
 '''-برنامه ای که یک فایل و عدد n را خوانده، سپس n سطر انتهای فایل را نمایش بدهد.
 '''
-
+#test git
 n = int(input('Please Enter a number (integer):' ))
 file1 = open('myfile.txt', 'r')
 lines = file1.readlines()
